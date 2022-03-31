@@ -1,0 +1,26 @@
+.Scrolling {
+  width: 400px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.Scrolling-total-data-box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Scrolling-data-box {
+  margin-bottom: 20px;
+  padding: 15px;
+  box-shadow: 4px 4px 4px 4px rgb(0 0 0 / 10%);
+}
+.Scrolling-title-box {
+  margin-bottom: 10px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.Scrolling-content-box {
+  font-size: 12px;
+}
