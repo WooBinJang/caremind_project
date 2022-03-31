@@ -1,9 +1,9 @@
-import Scrolling from "./components/scrolling/Scrolling";
-
+import "./App.css";
+import Layout from "./components/layout/Layout";
 function App() {
   return (
     <div className="App">
-      <Scrolling />
+      <Layout />
     </div>
   );
 }
