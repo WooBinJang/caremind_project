@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "userType": "U",
+    "emailAddr": "kate@afoter.com",
+    "passCode": "test123456!",
+    "token": "eyJhbxxxxxxx"
+  },
+  {
+    "id": 1,
+
+    "userType": "U",
+    "emailAddr": "a@afoter.com",
+    "passCode": "test123456!",
+    "token": "eyJhbxxxxxxx"
+  },
+  {
+    "id": 2,
+    "userType": "U",
+    "emailAddr": "b@afoter.com",
+    "passCode": "test123456!",
+    "token": "eyJhbxxxxxxx"
+  },
+  {
+    "id": 3,
+    "userType": "U",
+    "emailAddr": "test@test.com",
+    "passCode": "test123T!",
+    "token": "eyJhbxxxdsf13241kajdxxxx"
+  }
+]

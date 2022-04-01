@@ -6,16 +6,18 @@ const Main = () => {
   return (
     <div className="Main">
       <div className="Main-box">
-        <Button variant="contained">
-          <Link to="/scrolling"> InfiniteScroll</Link>
-        </Button>
-        <Button
-          variant="contained"
-          color="secondary"
-          className="Main-link2-btn"
-        >
-          <Link to="/join"> Join</Link>
-        </Button>
+        <Link to="/scrolling">
+          <Button variant="contained">InfiniteScroll</Button>
+        </Link>
+        <Link to="/join">
+          <Button
+            variant="contained"
+            color="secondary"
+            className="Main-link2-btn"
+          >
+            Join
+          </Button>
+        </Link>
       </div>
     </div>
   );

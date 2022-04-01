@@ -1,0 +1,65 @@
+.Join {
+  display: flex;
+  justify-content: center;
+  min-height: 440px;
+}
+.Join-box {
+  margin: 20px 0;
+}
+.Join-userdata-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Join-userdata-last-box {
+  margin-bottom: 20px;
+}
+.Join-userdata-box > label {
+  display: block;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.Join-userdata-box > input {
+  display: block;
+  width: 200px;
+}
+
+.Join-userdata-box > textarea {
+  display: block;
+  width: 400px;
+  height: 60px;
+  resize: none;
+}
+.Join-warning {
+  color: red;
+  font-size: 6px;
+  text-align: center;
+  margin-top: 1px;
+}
+
+.Join-btn-box {
+  display: flex;
+  justify-content: center;
+}
+
+.Join-sumbit-btn {
+  margin-right: 15px;
+  border: none;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  color: #000;
+  background-color: #e0e0e0;
+  font-size: 18px;
+}
+.Join-cancel-btn {
+  margin-left: 15px;
+  border: none;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+
+  color: #fff;
+  font-size: 18px;
+  background-color: #f50057;
+}
